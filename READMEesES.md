@@ -35,8 +35,8 @@ Ventajas
 =============================================
 
 * Participar en un proyecto con gente como tú, interesados en la tecnología y conocerlos.
-* Promocionar Promotion your bio, projects..
-* Clasificar recursos útiles, guías de compra, recomendaciones en un solo sitio y hacer este tipo de información más fácil de acceder
+* Promocionar tu perfil, proyectos...
+* Clasificar recursos útiles, guías de compras, recomendaciones en un solo sitio y hacer este tipo de información más fácil de acceder
 
 PARA HACER
 =============================================
