@@ -4,7 +4,7 @@
 <img src="https://github.com/adgellida/resources/raw/master/images/Techshare_room_Logo3_1.gif" width="80"> techshareroom_wiki
 =============================================
 
-<a href="https://discord.gg/wfm7Jrj">
+<a href="https://discord.gg/hbAHGSYGfs">
 <img src="https://discordapp.com/api/guilds/750051000664064141/widget.png?style=banner2" alt="Discord Banner 2"/>
 </a>
 
