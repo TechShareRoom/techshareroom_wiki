@@ -10,10 +10,10 @@
 
 Multi-thematic wiki about technology.
 
-Access to the wiki [here](https://www.techshareroom.com/techshareroom_wiki)
+Access to the wiki [here](https://techshareroom.com/techshareroom_wiki)
 
 <p align="center">
-  <a href="https://www.techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/resources/master/images/wiki-main.png" width="1000" alt="Wiki"></a>
+  <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/resources/master/images/wiki-main.png" width="1000" alt="Wiki"></a>
 </p>
 
 For now, this repo is a showcase about the existence of this project.
@@ -22,14 +22,14 @@ You can add PR, bugs, etc.
 
 By now only one person participates activelly. But this can change.
 
-If you want to collaborate go [here](https://www.techshareroom.com/techshareroom_wiki/index.php/C%C3%B3mo_colaborar)
+If you want to collaborate go [here](https://techshareroom.com/techshareroom_wiki/index.php/C%C3%B3mo_colaborar)
 
-Do you want to see the recent changes? Go [here](https://www.techshareroom.com/techshareroom_wiki/index.php?hidebots=1&limit=50&days=7&enhanced=1&title=Especial:CambiosRecientes&urlversion=2)
+Do you want to see the recent changes? Go [here](https://techshareroom.com/techshareroom_wiki/index.php?hidebots=1&limit=50&days=7&enhanced=1&title=Especial:CambiosRecientes&urlversion=2)
 
 Members
 =============================================
 
-See the members [here](https://www.techshareroom.com/techshareroom_wiki/index.php/Presentaciones)
+See the members [here](https://techshareroom.com/techshareroom_wiki/index.php/Presentaciones)
 
 Advantages
 =============================================
@@ -41,4 +41,4 @@ Advantages
 TO DO's
 =============================================
 
-[Link](https://www.techshareroom.com/techshareroom_wiki/index.php/Tareas_pendientes_wiki)
+[Link](https://techshareroom.com/techshareroom_wiki/index.php/Tareas_pendientes_wiki)
