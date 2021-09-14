@@ -22,7 +22,7 @@ You can add PR, bugs, etc.
 
 By now only one person participates activelly. But this can change.
 
-If you want to collaborate go [here](https://techshareroom.com/techshareroom_wiki/index.php/C%C3%B3mo_colaborar)
+If you want to collaborate go [here](https://techshareroom.com/techshareroom_wiki/index.php/%C2%BFC%C3%B3mo_colaborar%3F)
 
 Do you want to see the recent changes? Go [here](https://techshareroom.com/techshareroom_wiki/index.php?hidebots=1&limit=50&days=7&enhanced=1&title=Especial:CambiosRecientes&urlversion=2)
 
