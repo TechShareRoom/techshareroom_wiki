@@ -29,7 +29,7 @@ Si quieres colaborar ve [aquí](https://techshareroom.com/techshareroom_wiki/ind
 Miembros
 =============================================
 
-Mira los miembros [aquí](https://techshareroom.com/techshareroom_wiki/index.php/Presentaciones)
+Mira los miembros [aquí](https://techshareroom.com/techshareroom_wiki/index.php?title=%C2%BFQui%C3%A9nes_somos%3F)
 
 Ventajas
 =============================================

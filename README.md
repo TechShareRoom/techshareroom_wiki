@@ -29,7 +29,7 @@ Do you want to see the recent changes? Go [here](https://techshareroom.com/techs
 Members
 =============================================
 
-See the members [here](https://techshareroom.com/techshareroom_wiki/index.php/Presentaciones)
+See the members [here](https://techshareroom.com/techshareroom_wiki/index.php?title=%C2%BFQui%C3%A9nes_somos%3F)
 
 Advantages
 =============================================
