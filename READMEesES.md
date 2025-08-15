@@ -13,7 +13,7 @@ Wiki multi-temática sobre tecnología.
 Accede a la wiki [aquí](https://techshareroom.com/techshareroom_wiki)
 
 <p align="center">
-  <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://raw.githubusercontent.com/adgellida/resources/master/images/wiki-main.png" width="1000" alt="Wiki"></a>
+  <a href="https://techshareroom.com/techshareroom_wiki" target="_blank"><img src="https://raw.githubusercontent.com/TechShareRoom/resources/main/images/wiki-main.png" width="1000" alt="Wiki"></a>
 </p>
 
 Por ahora, este repo es un escaparate acerca de la existencia de este proyecto.
@@ -40,5 +40,3 @@ Ventajas
 
 PARA HACER
 =============================================
-
-[Enlace](https://techshareroom.com/techshareroom_wiki/index.php/Tareas_pendientes_wiki)
