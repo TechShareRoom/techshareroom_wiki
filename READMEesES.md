@@ -1,16 +1,7 @@
-﻿<a href="https://github.com/techshareroom/techshareroom_wiki" target="_blank" style="float: right; margin-left: 50px;">
-  <img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/languages/united-kingdom.png" width="80">
-</a>
+﻿<a href="https://github.com/techshareroom/techshareroom_wiki/blob/main/READMEesES.md" target="_blank"><img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/languages/spain.png" width="80" img align="right"></a>
+<a href="https://github.com/techshareroom/techshareroom_wiki" target="_blank"><img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/languages/united-kingdom.png" width="80" style="vertical-align:middle;margin:0px 50px" img align="right"></a>
 
-<a href="https://github.com/techshareroom/techshareroom_wiki/blob/main/READMEesES.md" target="_blank" style="float: right;">
-  <img src="https://raw.githubusercontent.com/techshareroom/snake/main/images/languages/spain.png" width="80">
-</a>
-
-<div style="clear: right;"></div>
-
-<a href="https://github.com/techshareroom/techshareroom_wiki" target="_blank" style="text-decoration: none;">
-  <img src="https://github.com/adgellida/resources/raw/master/images/Techshare_room_Logo3_1.gif" width="80"> techshareroom_wiki
-</a>
+<img src="https://github.com/adgellida/resources/raw/master/images/Techshare_room_Logo3_1.gif" width="80"> techshareroom_wiki
 =============================================
 
 <a href="https://discord.gg/wfm7Jrj">
